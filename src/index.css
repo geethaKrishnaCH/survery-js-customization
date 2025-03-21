@@ -1,0 +1,5 @@
+.sd-title.sd-container-modern__title {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
